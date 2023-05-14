@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/challengeCalculator/static/js/main.ec9e07ae.js",
+    "index.html": "/challengeCalculator/index.html",
+    "main.ec9e07ae.js.map": "/challengeCalculator/static/js/main.ec9e07ae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec9e07ae.js"
+  ]
+}
